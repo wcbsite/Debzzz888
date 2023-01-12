@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Debzzz888
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m @coderdeb
+-. Full stack Web developer 
 - 📫 How to reach me : njeridebra3318@gmail.com
 
 <!---
